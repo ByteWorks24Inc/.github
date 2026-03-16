@@ -1,6 +1,6 @@
 # BitLab
 Try BitLab here:  
-http://bitlab.utej.me
+http://bitlab.utej.me .
 **BitLab** is an online hardware simulation platform maintained by **ByteWorks24**.
 
 It provides a web-based environment for writing and testing digital hardware designs without requiring local toolchains.
