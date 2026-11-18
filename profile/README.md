@@ -1,6 +1,5 @@
 # BitLab
-Try BitLab here:  
-https://bitlab.utej.me 
+Try BitLab:
 
 
 **BitLab** is an online hardware simulation platform maintained by **ByteWorks24**.
